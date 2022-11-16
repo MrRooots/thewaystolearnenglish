@@ -1,0 +1,21 @@
+.mainContainer {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  height: 85vh;
+  width: 100%;
+}
+
+.cardContainer {
+  display: flex;
+}
+
+.card {
+  cursor: pointer;
+  margin: 45px;
+  height: 60%;
+  width: 60%;
+}
+
+.card-title {
+  text-align: center;
+}
