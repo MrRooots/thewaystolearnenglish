@@ -15,8 +15,8 @@ body::-webkit-scrollbar {
 
 .card {
   cursor: pointer;
-  margin: 45px;
-  height: 60%;
+  margin: 1rem;
+  height: 80%;
   width: 60%;
 }
 

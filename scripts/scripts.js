@@ -3,7 +3,7 @@ function loadPage(url) {
 }
 
 const tiltEls = document.querySelectorAll('.card')
-const tiltMove = (x, y) => `perspective(500px) scale(1.1) rotateX(${x}deg) rotateY(${y}deg)`
+const tiltMove = (x, y) => `perspective(500px) scale(1) rotateX(${x}deg) rotateY(${y}deg)`
 
 tiltEls.forEach(tilt => {
   const height = tilt.clientHeight
@@ -12,7 +12,7 @@ tiltEls.forEach(tilt => {
   tilt.addEventListener('mousemove', (e) => {
     const x = e.layerX
     const y = e.layerY
-    const multiplier = 30
+    const multiplier = 15
 
     const xRotate = multiplier * ((x - width / 2) / width)
     const yRotate = -multiplier * ((y - height / 2) / height)
