@@ -4,70 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="674c930d-d942-445b-be31-1100fe71a330" name="Changes" comment="word replacement">
-      <change afterPath="$PROJECT_DIR$/pages/games.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/css/bootstrap-grid.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/css/bootstrap-grid.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/css/bootstrap-grid.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/css/bootstrap-reboot.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/css/bootstrap-utilities.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/css/bootstrap-utilities.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/css/bootstrap-utilities.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/css/bootstrap-utilities.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/css/bootstrap-utilities.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/css/bootstrap.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/css/bootstrap.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/css/bootstrap.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/css/bootstrap.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/js/bootstrap.esm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/js/bootstrap.esm.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/js/bootstrap.esm.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/js/bootstrap.esm.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap-5.3.3-dist/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/fonts/Onest/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/fonts/Onest/Onest-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/fonts/Onest/Onest-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/fonts/Onest/Onest-ExtraBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/fonts/Onest/Onest-ExtraLight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/fonts/Onest/Onest-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/fonts/Onest/Onest-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/fonts/Onest/Onest-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/fonts/Onest/Onest-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/fonts/Onest/Onest-Thin.ttf" afterDir="false" />
+    <list default="true" id="674c930d-d942-445b-be31-1100fe71a330" name="Changes" comment="major update">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/books.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/books.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/films.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/films.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/serials.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/serials.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/songs.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/songs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/scripts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +96,7 @@
       <workItem from="1703587134004" duration="12000" />
       <workItem from="1703676242137" duration="303000" />
       <workItem from="1703930812153" duration="22000" />
-      <workItem from="1743518254942" duration="6909000" />
+      <workItem from="1743518254942" duration="7088000" />
     </task>
     <task id="LOCAL-00001" summary="add img">
       <option name="closed" value="true" />
@@ -214,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703676465560</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="major update">
+      <option name="closed" value="true" />
+      <created>1743525257173</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1743525257173</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,7 +183,8 @@
     <MESSAGE value="add img" />
     <MESSAGE value="card text fixes" />
     <MESSAGE value="word replacement" />
-    <option name="LAST_COMMIT_MESSAGE" value="word replacement" />
+    <MESSAGE value="major update" />
+    <option name="LAST_COMMIT_MESSAGE" value="major update" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
